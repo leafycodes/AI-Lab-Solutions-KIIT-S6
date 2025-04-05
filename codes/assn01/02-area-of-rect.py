@@ -4,7 +4,7 @@
 
 l=int(input("length: "))
 w=int(input("width: "))
-
+ 
 s=w/2
 print("area of rectangle "+str(w*l)+" sq, area of square "+str(s*s)+" sq")
 

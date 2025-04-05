@@ -1,6 +1,6 @@
 # #Create a program that takes user input and checks whether the
 # entered number is a prime number or not. Utilize a for loop and
-# branching statements.
+# branching statements. 
 
 import math
 

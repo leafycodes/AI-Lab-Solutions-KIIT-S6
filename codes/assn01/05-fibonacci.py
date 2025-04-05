@@ -4,7 +4,7 @@
 
 a1=0
 a2=1
-n=int(input("enter number of terms: "))
+n=int(input("enter number of terms: ")) 
 
 if n==0:
     exit(0)
